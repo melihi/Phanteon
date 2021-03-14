@@ -1,0 +1,43 @@
+* COnsolda gecmis ozelligi stackle yapilabilir
+* webscrrenshot icin phantomjs gerekli
+
+-splash screen bazen eror veriyo
+- cpu memory analyzer error : 
+  		hata veriyo
+  		
+  		
+  		
+  		
+--
+nmap jtableda otomatik exploit dbde arama ozelligi getir
+
+
+hard reset ekle start verdiginde hard reset atsin eski veriler kaliyo
+ffuf proxy kullanabiliyo proxy ekleme ozelligi kullan
+exploit suggester yap nmap ciktisindaki producti explout dbd earasin
+traceroute yolunu veren ozellik
+waf kontrolu
+what cms
+wordlist toplu indirme 
+eger exit code 0 deilse status reesimlerinde carpi gostersin error versin resmi napcan
+screenshotta data extraction
+
+
+
+
+/ensonda listeri bosaltirken error veriyo
+java.lang.ClassCastException: class javax.swing.JList$4 cannot be cast to class javax.swing.DefaultListModel (javax.swing.JList$4 and javax.swing.DefaultListModel are in module java.desktop of loader 'bootstrap')
+	at com.Phanteon.PhanteonGraphical$55.run(PhanteonGraphical.java:2119)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:316)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)

@@ -1,0 +1,8 @@
+# Nmap 7.91 scan initiated Fri Mar 12 18:51:27 2021 as: nmap --top-ports 65535 -Pn -T4 --reason -A -oN PhanteonRESULTS/vulnwebPhanteon/vulnwebNormalNmap -oX PhanteonRESULTS/vulnwebPhanteon/vulnwebNmap vulnweb.com
+Nmap scan report for vulnweb.com (18.192.172.30)
+Host is up, received user-set.
+rDNS record for 18.192.172.30: ec2-18-192-172-30.eu-central-1.compute.amazonaws.com
+All 8340 scanned ports on vulnweb.com (18.192.172.30) are filtered because of 8340 no-responses
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Mar 12 19:05:33 2021 -- 1 IP address (1 host up) scanned in 845.54 seconds

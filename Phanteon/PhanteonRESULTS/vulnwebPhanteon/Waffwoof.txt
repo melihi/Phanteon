@@ -1,0 +1,5 @@
+    [0m
+[*] Checking http://testphp.vulnweb.com/
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7

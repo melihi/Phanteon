@@ -1,0 +1,7 @@
+[url] - [code-200] - http://x.com
+[url] - [code-200] - http://x.com/?p=1&r=2&s=3
+[url] - [code-200] - http://x.com/?p=1&amp;r=2&amp;s=3
+[url] - [code-200] - http://x.com?arg=/foo
+[url] - [code-200] - http://x.com/?arg=/foo'.
+[url] - [code-200] - https://x.com/
+[url] - [code-200] - http://x.com/

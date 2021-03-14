@@ -1,0 +1,11 @@
+gospider
+amass
+nmap
+ffuf
+phantomjs
+whois
+traceroute
+Nikto
+Wafw00f
+searchsploit
+

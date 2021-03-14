@@ -1,0 +1,6 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,resultfile
+index.html,http://scanme.nmap.org/index.html,,10466,200,7581,512,177,text/html,
+index,http://scanme.nmap.org/index,,10456,200,7581,512,177,text/html,
+index.html,http://scanme.nmap.org/index.html,,10459,200,7581,512,177,text/html,
+images,http://scanme.nmap.org/images,,10331,200,947,62,17,text/html;charset=UTF-8,
+shared,http://scanme.nmap.org/shared,,18121,200,1721,110,21,text/html;charset=UTF-8,

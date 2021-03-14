@@ -1,0 +1,39 @@
+# Nmap 7.91 scan initiated Fri Mar 12 19:20:08 2021 as: nmap --top-ports 10000 -Pn -T4 --reason -A -oN PhanteonRESULTS/adidasPhanteon/adidasNormalNmap -oX PhanteonRESULTS/adidasPhanteon/adidasNmap adidas.com
+Nmap scan report for adidas.com (213.95.138.236)
+Host is up, received user-set (0.074s latency).
+rDNS record for 213.95.138.236: redirect.adidas.noris.de
+Not shown: 8338 filtered ports
+Reason: 8338 no-responses
+PORT    STATE SERVICE REASON  VERSION
+80/tcp  open  http    syn-ack
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     Location: https://www./nice%20ports%2C/Tri%6Eity.txt%2ebak
+|     Content-Length: 0
+|     Content-Type: text/html; charset=UTF-8
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 301 Moved Permanently
+|     Location: https://www./
+|     Content-Length: 0
+|_    Content-Type: text/html; charset=UTF-8
+|_http-title: Did not follow redirect to https://www.adidas.com/
+443/tcp open  https   syn-ack
+|_http-title: Did not follow redirect to https://www.adidas.com/
+| ssl-cert: Subject: commonName=adidas.de/organizationName=adidas AG/stateOrProvinceName=Bayern/countryName=DE
+| Subject Alternative Name: DNS:adidas.de, DNS:adidas.ae, DNS:adidas.at, DNS:adidas.be, DNS:adidas.bh, DNS:adidas.ca, DNS:adidas.ch, DNS:adidas.cl, DNS:adidas.co, DNS:adidas.co.id, DNS:adidas.co.in, DNS:adidas.co.kr, DNS:adidas.com.ar, DNS:adidas.com.au, DNS:adidas.com.br, DNS:adidas.com.co, DNS:adidas.com, DNS:adidas.com.hk, DNS:adidas.com.kw, DNS:adidas.com.mx, DNS:adidas.com.my, DNS:adidas.com.om, DNS:adidas.com.pe, DNS:adidas.com.ph, DNS:adidas.com.qa, DNS:adidas.com.sa, DNS:adidas.com.sg, DNS:adidas.com.tr, DNS:adidas.com.tw, DNS:adidas.com.vn, DNS:adidas.co.nz, DNS:adidas.co.th, DNS:adidas.co.uk, DNS:adidas.co.za, DNS:adidas.cz, DNS:adidas.dk, DNS:adidas.es, DNS:adidas.fi, DNS:adidas.fr, DNS:adidas.gr, DNS:adidas.hu, DNS:reebok.es, DNS:reebok.fi, DNS:reebok.fr, DNS:reebok.gr, DNS:reebok.ie, DNS:reebok.it, DNS:reebok.mx, DNS:reebok.nl, DNS:reebok.pl, DNS:reebok.pt, DNS:reebok.ru, DNS:reebok.se, DNS:reebok.sk, DNS:reebok.pe, DNS:reebok.cl, DNS:reebok.com, DNS:adidas.ie, DNS:adidas.it, DNS:adidas.mx, DNS:adidas.nl, DNS:adidas.no, DNS:adidas.pe, DNS:adidas.pl, DNS:adidas.pt, DNS:adidas.ru, DNS:adidas.se, DNS:adidas.sk, DNS:reebok.at, DNS:reebok.be, DNS:reebok.ca, DNS:reebok.ch, DNS:reebok.co, DNS:reebok.com.ar, DNS:reebok.com.au, DNS:reebok.com.br, DNS:reebok.co.nz, DNS:reebok.co.uk, DNS:reebok.cz, DNS:reebok.de, DNS:reebok.dk
+| Not valid before: 2020-09-24T14:02:39
+|_Not valid after:  2021-09-24T14:02:36
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.91%I=7%D=3/12%Time=604BB105%P=x86_64-unknown-linux-gnu%r
+SF:(GetRequest,76,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\nLocation:\x
+SF:20https://www\./\r\nContent-Length:\x200\r\nContent-Type:\x20text/html;
+SF:\x20charset=UTF-8\r\n\r\n")%r(HTTPOptions,76,"HTTP/1\.1\x20301\x20Moved
+SF:\x20Permanently\r\nLocation:\x20https://www\./\r\nContent-Length:\x200\
+SF:r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\n\r\n")%r(FourOhFourR
+SF:equest,99,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\nLocation:\x20htt
+SF:ps://www\./nice%20ports%2C/Tri%6Eity\.txt%2ebak\r\nContent-Length:\x200
+SF:\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\n\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Mar 12 19:23:39 2021 -- 1 IP address (1 host up) scanned in 210.93 seconds

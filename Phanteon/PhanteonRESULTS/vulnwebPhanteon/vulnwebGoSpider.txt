@@ -1,0 +1,1091 @@
+[url] - [code-200] - http://testphp.vulnweb.com/
+[form] - http://testphp.vulnweb.com/
+[url] - [code-200] - http://testphp.vulnweb.com/index.php
+[form] - http://testphp.vulnweb.com/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/hpp/
+[url] - [code-200] - http://testphp.vulnweb.com/login.php
+[form] - http://testphp.vulnweb.com/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/
+[url] - [code-200] - http://testphp.vulnweb.com/disclaimer.php
+[form] - http://testphp.vulnweb.com/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php
+[form] - http://testphp.vulnweb.com/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/cart.php
+[form] - http://testphp.vulnweb.com/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php
+[form] - http://testphp.vulnweb.com/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com/guestbook.php
+[form] - http://testphp.vulnweb.com/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/hpp/?pp=12
+[form] - http://testphp.vulnweb.com/hpp/?pp=12
+[url] - [code-200] - http://testphp.vulnweb.com/signup.php
+[form] - http://testphp.vulnweb.com/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/color-printer/3/
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=2
+[form] - http://testphp.vulnweb.com/artists.php?artist=2
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-3.html
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/artists.php?artist=1
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=3
+[form] - http://testphp.vulnweb.com/artists.php?artist=3
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-3/
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-1.html
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-1/
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=2
+[form] - http://testphp.vulnweb.com/product.php?pic=2
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=1
+[form] - http://testphp.vulnweb.com/product.php?pic=1
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=5
+[form] - http://testphp.vulnweb.com/product.php?pic=5
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=3
+[form] - http://testphp.vulnweb.com/product.php?pic=3
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=4
+[form] - http://testphp.vulnweb.com/product.php?pic=4
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-2/
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-2.html
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=7
+[form] - http://testphp.vulnweb.com/product.php?pic=7
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?artist=2
+[form] - http://testphp.vulnweb.com/listproducts.php?artist=2
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=6
+[form] - http://testphp.vulnweb.com/product.php?pic=6
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?artist=1
+[form] - http://testphp.vulnweb.com/listproducts.php?artist=1
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?artist=3
+[form] - http://testphp.vulnweb.com/listproducts.php?artist=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/.idea/misc.xml
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?pic=7
+[url] - [code-200] - http://testphp.vulnweb.com:80/search.php?test=query'+0R+sqlspider
+[form] - http://testphp.vulnweb.com:80/search.php?test=query'+0R+sqlspider
+[form] - http://testphp.vulnweb.com:80/product.php?pic=7
+[url] - [code-200] - http://testphp.vulnweb.com:80/secured/database_connect.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/secured/newuser.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/sendcommand.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/infocateg.php?id=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/showimage.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/infotitle.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/titles.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/infocateg.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/showxml.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/wvstests/
+[url] - [code-200] - http://testphp.vulnweb.com:80/secured/phpinfo.php?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000
+[url] - [code-200] - http://testphp.vulnweb.com:80/wvstests/pmwiki_2_1_19/scripts/version.php
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=-1
+[form] - http://testphp.vulnweb.com/artists.php?artist=-1
+[url] - [code-400] - http://testphp.vulnweb.com:80/windows/win.ini%00.htm
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/secured/phpinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/.idea/vcs.xml
+[url] - [code-200] - http://testphp.vulnweb.com:80/.idea/modules.xml
+[url] - [code-200] - http://testphp.vulnweb.com:80/.idea/scopes/scope_settings.xml
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=-1%20union%20select%201,2,group_concat(pass)%20from%20users--
+[form] - http://testphp.vulnweb.com/artists.php?artist=-1%20union%20select%201,2,group_concat(pass)%20from%20users--
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1%20AND%201=0
+[form] - http://testphp.vulnweb.com/artists.php?artist=1%20AND%201=0
+[url] - [code-200] - http://testphp.vulnweb.com:80/artists.php?artist=1'
+[form] - http://testphp.vulnweb.com:80/artists.php?artist=1'
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1%20AND%201=1
+[form] - http://testphp.vulnweb.com/artists.php?artist=1%20AND%201=1
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=10
+[form] - http://testphp.vulnweb.com/artists.php?artist=10
+[url] - [code-200] - http://testphp.vulnweb.com:80/.idea/workspace.xml
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1,GET,artist,BTU
+[url] - [code-200] - http://testphp.vulnweb.com:80/admin/?C=S;O=A
+[form] - http://testphp.vulnweb.com/artists.php?artist=1,GET,artist,BTU
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=-1%20UNION%20SELECT%201,version(),current_user()
+[form] - http://testphp.vulnweb.com/artists.php?artist=-1%20UNION%20SELECT%201,version(),current_user()
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=999999.9
+[form] - http://testphp.vulnweb.com/artists.php?artist=999999.9
+[url] - [code-200] - http://testphp.vulnweb.com:80/artists.php?artist=1
+[form] - http://testphp.vulnweb.com:80/artists.php?artist=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/bxss/vuln.php?
+[url] - [code-200] - http://testphp.vulnweb.com:80/bxss/vuln.php?id=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/admin/create.sql
+[url] - [code-200] - http://testphp.vulnweb.com:80/.idea/encodings.xml
+[url] - [code-200] - http://testphp.vulnweb.com:80/admin/?C=M;O=A
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/admin/?C=N;O=D
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=$%7Binjection
+[url] - [code-200] - http://testphp.vulnweb.com:80/.idea/acuart.iml
+[form] - http://testphp.vulnweb.com/artists.php?artist=$%7Binjection
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/infoartist.php?
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,11
+[url] - [code-200] - http://testphp.vulnweb.com:80/AJAX/htaccess.conf
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,11
+[url] - [code-200] - http://testphp.vulnweb.com:80/artists.php?artist%20=1
+[form] - http://testphp.vulnweb.com:80/artists.php?artist%20=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/hpp/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/hpp/?pp=12
+[form] - http://testphp.vulnweb.com:80/hpp/?pp=12
+[url] - [code-200] - http://testphp.vulnweb.com:80/hpp/params.php?
+[url] - [code-200] - http://testphp.vulnweb.com:80/Connections/DB_Connection.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/admin1.php
+[form] - http://testphp.vulnweb.com:80/categories.php/admin1.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/cart.php
+[form] - http://testphp.vulnweb.com:80/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/hpp/index.php?pp=12
+[form] - http://testphp.vulnweb.com:80/hpp/index.php?pp=12
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php
+[form] - http://testphp.vulnweb.com:80/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/artists.php
+[form] - http://testphp.vulnweb.com:80/login.php/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/index.bak
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/index.php
+[form] - http://testphp.vulnweb.com:80/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/database_connect.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=1'
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=1'
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1%20AND%201=1%20UNION%20ALL%20SELECT%201,2,3,4,5,6,7,8,9,10,11%20from%20information_schema.tables--%20-
+[url] - [code-200] - http://testphp.vulnweb.com:80/CVS/Repository
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?pid=4
+[form] - http://testphp.vulnweb.com:80/comment.php?pid=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/default.php
+[form] - http://testphp.vulnweb.com:80/categories.php/default.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/admin/?C=D;O=A
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,@@version
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,@@version
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1%20AND%201=1%20UNION%20ALL%20SELECT%201,table_name,3,4,5,6,7,8,9,10,11%20from%20information_schema.tables--%20-
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1%20AND%201=1%20UNION%20ALL%20SELECT%201,table_name,3,4,5,6,7,8,9,10,11%20from%20information_schema.tables--%20-
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/login.php
+[form] - http://testphp.vulnweb.com:80/login.php/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,EVENT_CATALOG+from+information_schema.EVENTS
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=1%E2%80%9D
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,EVENT_CATALOG+from+information_schema.EVENTS
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=1%E2%80%9D
+[url] - [code-200] - http://testphp.vulnweb.com:80/CVS/Root
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=%27
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=1+order+by+11+--
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=1+order+by+11+--
+[form] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=%27
+[url] - [code-200] - http://testphp.vulnweb.com:80/crossdomain.xml
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/details.php?
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,table_name,3,4,5,6,7,8,9,10,11+from+information_schema.tables+where+table_schema=database()--+
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1+union+select+%27vuln1%27,database(),%27vul
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,table_name,3,4,5,6,7,8,9,10,11+from+information_schema.tables+where+table_schema=database()--+
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(table_name)+from+information_schema.tables
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1+union+select+%27vuln1%27,database(),%27vul
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(table_name)+from+information_schema.tables
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1%20and%201=1
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=
+[form] - http://testphp.vulnweb.com/artists.php?artist=
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,database()--
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,database()--
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,+group_concat(uname,0x3a,pass)+from+acuart.users+--
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,+group_concat(uname,0x3a,pass)+from+acuart.users+--
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,table_name+from+information_schema.tables
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/signup.php
+[form] - http://testphp.vulnweb.com:80/categories.php/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+11--+
+[form] - http://testphp.vulnweb.com:80/login.php/index.php
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+11--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/CVS/Entries
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1+order+by+12
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/comment.php?
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1+order+by+12
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,table_name+from+information_schema.tables
+[form] - http://testphp.vulnweb.com:80/login.php/comment.php?
+[url] - [code-200] - http://testphp.vulnweb.com:80/CVS/Entries.Log
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(CHARACTER_SET_NAME,0x3a
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(CHARACTER_SET_NAME,0x3a
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-999999++UNION+SELECT+1%2Cuname%2C3%2C4%2C5%2C6%2Cversion%28%29%2C8%2Cpass%2C10%2C11+FROM+users
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-999999++UNION+SELECT+1%2Cuname%2C3%2C4%2C5%2C6%2Cversion%28%29%2C8%2Cpass%2C10%2C11+FROM+users
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/details.php?id=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/Details/color-printer/3/
+[form] - http://testphp.vulnweb.com:80/categories.php/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1^database
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1^database
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1+union+select+1,2,3,4,5,6,7,8,9,10,11
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1+union+select+1,2,3,4,5,6,7,8,9,10,11
+[url] - [code-200] - http://testphp.vulnweb.com:80/logout.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?pic=4
+[form] - http://testphp.vulnweb.com:80/product.php?pic=4
+[form] - http://testphp.vulnweb.com:80/logout.php
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1+order+by+2
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1+order+by+2
+[url] - [code-200] - http://testphp.vulnweb.com:80/Templates/main_dynamic_template.dwt.php
+[form] - http://testphp.vulnweb.com:80/Templates/main_dynamic_template.dwt.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,+group_concat(table_name)+from+information_schema.tables+where+table_schema='acuart'+--
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,+group_concat(table_name)+from+information_schema.tables+where+table_schema='acuart'+--
+[url] - [code-200] - http://testphp.vulnweb.com:80/pictures/path-disclosure-unix.html
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1%20AND%201=1%20UNION%20ALL%20SELECT%201,2,3,4%20from%20information_schema.tables--%20-
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1%20AND%201=1%20UNION%20ALL%20SELECT%201,2,3,4,5,6,7,8,9,10,11%20from%20information_schema.tables--%20-
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+12--+
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+12--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=1*
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=1*
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1%60
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1%60
+[form] - http://testphp.vulnweb.com:80/categories.php/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/userinfo.php
+[url] - [code-403] - http://testphp.vulnweb.com:80/cgi-bin
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?aid=1
+[form] - http://testphp.vulnweb.com:80/comment.php?aid=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?pic=6
+[form] - http://testphp.vulnweb.com:80/product.php?pic=6
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=$%7Binjection
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=$%7Binjection
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/RateProduct-2.html
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(column_name)+from+information_schema
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(column_name)+from+information_schema
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?artist=123&amp;asdf=ff&amp;cat=123DalFox
+[form] - http://testphp.vulnweb.com/listproducts.php?artist=123&amp;asdf=ff&amp;cat=123DalFox
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+all+select+1,group_concat(%27user:%27,uname,%27----pass:%27,pass,%27-----cc:%27,cc,%27------email:%27,email),3,4,5,6,7,8,9,10,11+from+users--+
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+all+select+1,group_concat(%27user:%27,uname,%27----pass:%27,pass,%27-----cc:%27,cc,%27------email:%27,email),3,4,5,6,7,8,9,10,11+from+users--+
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?artist=123&asdf=ff&cat=123DalFox
+[form] - http://testphp.vulnweb.com/listproducts.php?artist=123&asdf=ff&cat=123DalFox
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,+group_concat(column_name)+from+information_schema.columns+where+table_name='users'+--
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,+group_concat(column_name)+from+information_schema.columns+where+table_name='users'+--
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?pic=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/signup.php
+[form] - http://testphp.vulnweb.com:80/product.php?pic=3
+[form] - http://testphp.vulnweb.com:80/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,database()+--
+[url] - [code-200] - http://testphp.vulnweb.com/showimage.php?file=8
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,database()+--
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1%20union%20select%20null,%20null,%20null%20--
+[form] - http://testphp.vulnweb.com/artists.php?artist=1%20union%20select%20null,%20null,%20null%20--
+[javascript] - http://testphp.vulnweb.com:80/medias/js/common_functions.js
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1+order+by+1
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1+order+by+1
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?pid=3
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,group_concat(table_name),3,4,5,6,7,8,9,10,11+from+information_schema.tables+where+table_schema=database()--+
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,group_concat(table_name),3,4,5,6,7,8,9,10,11+from+information_schema.tables+where+table_schema=database()--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2'
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2'
+[form] - http://testphp.vulnweb.com/listproducts.php
+[url] - [code-200] - http://testphp.vulnweb.com/?param=cmd.exe
+[form] - http://testphp.vulnweb.com/?param=cmd.exe
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/
+[url] - [code-200] - http://testphp.vulnweb.com:80/search.php?
+[form] - http://testphp.vulnweb.com:80/search.php?
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/RateProduct-1.html
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+5--+
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+5--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+6--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?
+[form] - http://testphp.vulnweb.com:80/product.php?
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+6--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+3--+
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+3--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/pictures/ipaddresses.txt
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1+union+select+%27vuln1%27,@@version,%27vuln3%27,%27vuln4%27,%27vuln5%27,%27vuln6%27,%27vuln7%27,%27vuln8%27,%27vuln9%27,%27vuln10%27,%27vuln11%27
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1+union+select+%27vuln1%27,@@version,%27vuln3%27,%27vuln4%27,%27vuln5%27,%27vuln6%27,%27vuln7%27,%27vuln8%27,%27vuln9%27,%27vuln10%27,%27vuln11%27
+[url] - [code-200] - http://testphp.vulnweb.com/cgi-bin/le_check_v3.exe
+[url] - [code-200] - http://testphp.vulnweb.com:80/pictures/wp-config.bak
+[url] - [code-200] - http://testphp.vulnweb.com:80/search.php?test=query
+[form] - http://testphp.vulnweb.com:80/search.php?test=query
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1%20AND%201=1%20UNION%20ALL%20SELECT%201,2,3,4%20from%20information_schema.tables--%20-
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,group_concat(colu
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,group_concat(colu
+[url] - [code-200] - http://testphp.vulnweb.com/pictures/credentials.txt
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/rate.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/pictures/path-disclosure-win.html
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+1--+
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=-1 union all select 1,group_concat(table_name),null from information_schema.tables where table_schema=database()
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+1--+
+[form] - http://testphp.vulnweb.com/artists.php?artist=-1 union all select 1,group_concat(table_name),null from information_schema.tables where table_schema=database()
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+2--+
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2+order+by+2--+
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?pic=2
+[form] - http://testphp.vulnweb.com:80/product.php?pic=2
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,2,3
+[form] - http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,2,3
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=artist%27%20OR%20%271%27=%271
+[form] - http://testphp.vulnweb.com/artists.php?artist=artist%27%20OR%20%271%27=%271
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=FUZZ
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=FUZZ
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?pic=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?pid=7
+[form] - http://testphp.vulnweb.com:80/comment.php?pid=7
+[form] - http://testphp.vulnweb.com:80/product.php?pic=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?pid=5
+[form] - http://testphp.vulnweb.com:80/comment.php?pid=5
+[url] - [code-200] - http://testphp.vulnweb.com/.
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1%20UNION%20SELECT%201,%202,%203
+[form] - http://testphp.vulnweb.com/artists.php?artist=1%20UNION%20SELECT%201,%202,%203
+[url] - [code-200] - http://testphp.vulnweb.com/showimage.php?file=8&size=160
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=1zqjry%27%22%28%29%7B%7D%3Cx%3E%3A%2F1zqjry%3B9
+[form] - http://testphp.vulnweb.com/product.php?pic=1zqjry%27%22%28%29%7B%7D%3Cx%3E%3A%2F1zqjry%3B9
+[form] - http://testphp.vulnweb.com:80/comment.php?pid=3
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- AozP
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- AozP
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=999999.9%20union%20all%20select%201,2,3,4,5,6,7,8,9,10,99
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=999999.9%20union%20all%20select%201,2,3,4,5,6,7,8,9,10,99
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?pid=2
+[form] - http://testphp.vulnweb.com:80/comment.php?pid=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?pid=1
+[form] - http://testphp.vulnweb.com:80/comment.php?pid=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?pid=6
+[form] - http://testphp.vulnweb.com:80/comment.php?pid=6
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=1%20order%20by%206%20--
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,11+--
+[url] - [code-200] - http://testphp.vulnweb.com/showimage.php?file=vuln8&size=160
+[url] - [code-200] - http://testphp.vulnweb.com/showimage.php?file=./../../../../../etc/passwd
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,11+--
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=1%20order%20by%206%20--
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?aid=2
+[form] - http://testphp.vulnweb.com:80/comment.php?aid=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/comment.php?aid=3
+[form] - http://testphp.vulnweb.com:80/comment.php?aid=3
+[form] - http://testphp.vulnweb.com/.
+[url] - [code-200] - http://testphp.vulnweb.com
+[form] - http://testphp.vulnweb.com
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=1%20and%20union%20select%20@@version
+[form] - http://testphp.vulnweb.com/artists.php?artist=1%20and%20union%20select%20@@version
+[url] - [code-200] - http://testphp.vulnweb.com:80/artists.php?artist=2
+[form] - http://testphp.vulnweb.com:80/artists.php?artist=2
+[url] - [code-200] - http://testphp.vulnweb.com/wvstests/pmwiki_2_1_19/
+[url] - [code-200] - http://testphp.vulnweb.com:80/
+[form] - http://testphp.vulnweb.com:80/
+[url] - [code-200] - http://testphp.vulnweb.com:80/wvstests/pmwiki_2_1_19/
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/scopes/
+[url] - [code-200] - http://testphp.vulnweb.com/admin/
+[url] - [code-200] - http://testphp.vulnweb.com/bxss/
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?artist=1
+[form] - http://testphp.vulnweb.com:80/listproducts.php?artist=1
+[url] - [code-200] - http://testphp.vulnweb.com/AJAX/
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/
+[url] - [code-200] - http://testphp.vulnweb.com:80/hpp/params.php?p=valid&pp=12
+[url] - [code-200] - http://testphp.vulnweb.com:80/artists.php?artist=3
+[form] - http://testphp.vulnweb.com:80/artists.php?artist=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/hpp/
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com/images/
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/signup.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/index.php
+[form] - http://testphp.vulnweb.com/categories.php/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/login.php
+[form] - http://testphp.vulnweb.com/categories.php/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/artists.php
+[form] - http://testphp.vulnweb.com/categories.php/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/CVS/
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/showimage.php?file=8
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/login.php
+[form] - http://testphp.vulnweb.com/categories.php/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/userinfo.php
+[form] - http://testphp.vulnweb.com/categories.php/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/pictures/
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/index.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/Flash/add.swf
+[url] - [code-200] - http://testphp.vulnweb.com/Flash/
+[url] - [code-200] - http://testphp.vulnweb.com:80/artists.php?artist=10
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/artists.php?artist=10
+[form] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/cart.php
+[form] - http://testphp.vulnweb.com/categories.php/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/categories.php/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/Connections/
+[url] - [code-200] - http://testphp.vulnweb.com/artists.php?artist=vuln10
+[url] - [code-200] - http://testphp.vulnweb.com:80/index.php
+[form] - http://testphp.vulnweb.com/artists.php?artist=vuln10
+[url] - [code-200] - http://testphp.vulnweb.com/showimage.php?file=vuln8
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/RateProduct-3.html
+[url] - [code-200] - http://testphp.vulnweb.com/product.php?pic=vuln1
+[form] - http://testphp.vulnweb.com/product.php?pic=vuln1
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/BuyProduct-1/
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/BuyProduct-3/
+[url] - [code-200] - http://testphp.vulnweb.com:80/Mod_Rewrite_Shop/BuyProduct-2/
+[url] - [code-200] - http://testphp.vulnweb.com/Mod_Rewrite_Shop/images/
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/Templates/
+[url] - [code-200] - http://testphp.vulnweb.com/hpp/
+[url] - [code-200] - http://testphp.vulnweb.com:80/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/pictures/WS_FTP.LOG
+[url] - [code-200] - http://testphp.vulnweb.com/secured/
+[url] - [code-200] - http://testphp.vulnweb.com:80/guestbook.php
+[form] - http://testphp.vulnweb.com:80/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/artists.php
+[form] - http://testphp.vulnweb.com:80/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(CHARACTER_SET_NAME)+from+information_schema
+[form] - http://testphp.vulnweb.com/listproducts.php?cat=-1+union+select+1,2,3,4,5,6,7,8,9,10,group_concat(CHARACTER_SET_NAME)+from+information_schema
+[url] - [code-200] - http://testphp.vulnweb.com/wvstests/pmwiki_2_1_19/scripts/
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?artist=2
+[form] - http://testphp.vulnweb.com:80/listproducts.php?artist=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/product.php?pic=5
+[form] - http://testphp.vulnweb.com:80/product.php?pic=5
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/wvstests/
+[url] - [code-200] - http://testphp.vulnweb.com:80/wvstests/pmwiki_2_1_19/scripts/
+[url] - [code-200] - http://testphp.vulnweb.com/wvstests/pmwiki_2_1_19/scripts/
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/scopes/scope_settings.xml
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/
+[url] - [code-200] - http://testphp.vulnweb.com/admin/create.sql
+[url] - [code-200] - http://testphp.vulnweb.com/bxss/vuln.php?id=1
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/encodings.xml
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/scopes/
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/modules.xml
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/acuart.iml
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/workspace.xml
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/vcs.xml
+[url] - [code-200] - http://testphp.vulnweb.com/.idea/misc.xml
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?artist=3
+[form] - http://testphp.vulnweb.com:80/listproducts.php?artist=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/signup.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com/CVS/Entries
+[url] - [code-200] - http://testphp.vulnweb.com/CVS/Root
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/CVS/Entries.Log
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/CVS/Repository
+[url] - [code-200] - http://testphp.vulnweb.com/pictures/wp-config.bak
+[url] - [code-200] - http://testphp.vulnweb.com/pictures/WS_FTP.LOG
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/artists.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/cart.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/categories.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/Connections/DB_Connection.php
+[url] - [code-200] - http://testphp.vulnweb.com/pictures/path-disclosure-win.html
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/login.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/pictures/ipaddresses.txt
+[url] - [code-200] - http://testphp.vulnweb.com/pictures/path-disclosure-unix.html
+[javascript] - http://testphp.vulnweb.com/medias/js/common_functions.js
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/Templates/main_dynamic_template.dwt.php
+[form] - http://testphp.vulnweb.com/Templates/main_dynamic_template.dwt.php
+[url] - [code-200] - http://testphp.vulnweb.com/wvstests/pmwiki_2_1_19/scripts/version.php
+[url] - [code-200] - http://testphp.vulnweb.com/wvstests/pmwiki_2_1_19/
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - https://images.google.ch/url?q=https://coinkingstore.com
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://pochta2018.ru
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/signup.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/signup.php
+[url] - [code-403] - http://testphp.vulnweb.com/redir.php?r=http://www.eclectasy.com/Fractal-Explorer/index.html
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com/Flash/add.fla
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - https://1tip88.com/m88
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/signup.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/signup.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - https://www.shreya-singh.com/
+[javascript] - https://cdn.ampproject.org/v0.js
+[javascript] - https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+[javascript] - https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
+[javascript] - https://cdn.ampproject.org/v0/amp-fit-text-0.1.js
+[url] - [code-200] - https://www.shreya-singh.com/
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/signup.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/signup.php
+[form] - http://testphp.vulnweb.com:80/login.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/signup.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/categories.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/guestbook.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/artists.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/cart.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/disclaimer.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=2
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/index.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=1
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=4
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/listproducts.php?cat=3
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/privacy.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/userinfo.php
+[url] - [code-200] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[form] - http://testphp.vulnweb.com/categories.php/AJAX/AJAX/AJAX/AJAX/AJAX/AJAX/login.php
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-fit-text-0.1.js] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-fit-text-0.1.js] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - https://3p.ampproject.net
+[linkfinder] - https://3p.ampproject.net
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - https://cdn.ampproject.org
+[linkfinder] - https://cdn.ampproject.org
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - https://us-central1-amp-error-reporting.cloudfunctions.net/r
+[linkfinder] - https://us-central1-amp-error-reporting.cloudfunctions.net/r
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - https://us-central1-amp-error-reporting.cloudfunctions.net/r-beta
+[linkfinder] - https://us-central1-amp-error-reporting.cloudfunctions.net/r-beta
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/linker
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/linker
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/linker-reader
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/linker-reader
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/variables
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/variables
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - /rtv/
+[linkfinder] - http://testphp.vulnweb.com/rtv/
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - /v0/analytics-vendors/
+[linkfinder] - http://testphp.vulnweb.com/v0/analytics-vendors/
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - APPLICATION/JSON
+[linkfinder] - http://testphp.vulnweb.com/APPLICATION/JSON
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - application/json
+[linkfinder] - http://testphp.vulnweb.com/application/json
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/config
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/config
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/events
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/events
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/cookie-writer
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/cookie-writer
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/visibility-manager
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/visibility-manager
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/analytics-root
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/analytics-root
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/linker-manager
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/linker-manager
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/iframe-transport-message-queue
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/iframe-transport-message-queue
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - /2103020156005/iframe-transport-client-v0.js
+[linkfinder] - http://testphp.vulnweb.com/2103020156005/iframe-transport-client-v0.js
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/iframe-transport
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/iframe-transport
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - amp-analytics/transport
+[linkfinder] - http://testphp.vulnweb.com/amp-analytics/transport
+[linkfinder] - [from: https://cdn.ampproject.org/v0/amp-analytics-0.1.js] - text/plain
+[linkfinder] - http://testphp.vulnweb.com/text/plain
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - https://3p.ampproject.net
+[linkfinder] - https://3p.ampproject.net
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - https://cdn.ampproject.org
+[linkfinder] - https://cdn.ampproject.org
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - https://us-central1-amp-error-reporting.cloudfunctions.net/r
+[linkfinder] - https://us-central1-amp-error-reporting.cloudfunctions.net/r
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - https://us-central1-amp-error-reporting.cloudfunctions.net/r-beta
+[linkfinder] - https://us-central1-amp-error-reporting.cloudfunctions.net/r-beta
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - https://log.amp.dev/?v=012103020156005&id=
+[linkfinder] - https://log.amp.dev/?v=012103020156005&id=
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - /rtv/012103020156005/log-messages.simple.json
+[linkfinder] - http://testphp.vulnweb.com/rtv/012103020156005/log-messages.simple.json
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - application/json
+[linkfinder] - http://testphp.vulnweb.com/application/json
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - application/x-www-form-urlencoded
+[linkfinder] - http://testphp.vulnweb.com/application/x-www-form-urlencoded
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - text/plain
+[linkfinder] - http://testphp.vulnweb.com/text/plain
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - https://ampcid.google.com/v1/cache:getClientId?key=AIzaSyDKtqGxnoeIqVM33Uf7hRSa3GJxuzR7mLc
+[linkfinder] - https://ampcid.google.com/v1/cache:getClientId?key=AIzaSyDKtqGxnoeIqVM33Uf7hRSa3GJxuzR7mLc
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - https://ampcid.google.com/v1/publisher:getClientId?key=
+[linkfinder] - https://ampcid.google.com/v1/publisher:getClientId?key=
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - /robots.txt?_AMP_safari_preconnect_polyfill_cachebust=
+[linkfinder] - http://testphp.vulnweb.com/robots.txt?_AMP_safari_preconnect_polyfill_cachebust=
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - /c/
+[linkfinder] - http://testphp.vulnweb.com/c/
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - /rtv/
+[linkfinder] - http://testphp.vulnweb.com/rtv/
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - /v0/
+[linkfinder] - http://testphp.vulnweb.com/v0/
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - /v0/validator.js
+[linkfinder] - http://testphp.vulnweb.com/v0/validator.js
+[linkfinder] - [from: https://cdn.ampproject.org/v0.js] - /examiner.js
+[linkfinder] - http://testphp.vulnweb.com/examiner.js
