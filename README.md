@@ -1,8 +1,10 @@
 ![alt text](https://github.com/melihi/Phanteon/blob/main/phanteonLogo.png?raw=true)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/melihi/Phanteon?style=flat-square)  ![GitHub contributors](https://img.shields.io/github/contributors/melihi/Phanteon?style=flat-square) ![GitHub](https://img.shields.io/github/license/melihi/Phanteon)
-# About the project
-  This project managing 4 main tools . With this tool you don't need to run terminal commands for first handshake with your target . Phanteon provides to you genereal informations about the target . After phanteon's processes you can dive deep manually with these datas . These external tools makes too much traffic naturally . 
+
+  ![GitHub](https://img.shields.io/github/license/melihi/Phanteon) 
+  ![maven](https://badgen.net/badge/icon/maven?icon=maven&label)
+# About the project  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+  This project managing 4 main tools . With this tool you don't need to run terminal commands for first handshake with your target . Phanteon provides to you genereal informations about the target . After phanteon's processes you can dive deep manually with these datas . These external tools makes too much traffic naturally . <br><br>
 
 
 # What is  Phanteon
