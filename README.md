@@ -62,7 +62,7 @@ Phanteon Automatized Scan &amp; Discovery Tool. Phanteon , aims to provide human
 
 ### Prerequisites
 
-This project developed in Arch linux with java 15 . Arch , Java 15+ recommended . Installing the requirements very easy with BlackArch repo . 
+This project developed in p linux with java 15 . Arch , Java 15+ recommended . Installing the requirements very easy with BlackArch repo . 
 Follow the instructions step by step on this link [BlackArch strap.sh](https://blackarch.org/downloads.html#install-repo) . After that run this command 
 * Install requirements for Arch linux :
   ```sh
