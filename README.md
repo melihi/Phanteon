@@ -99,7 +99,7 @@ Follow the instructions step by step on this link [BlackArch strap.sh](https://b
 > 
 
 <p float="left">
- <img width="00" alt="portfolio_view" src="https://grabify.link/image.php?id=XLPGYW.jpg">
+ <img width="00" alt="portfolio_view" src="https://grabify.link/news.php?id=XLPGYW.svg">
   
  
 </p>
