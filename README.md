@@ -89,7 +89,7 @@ Follow the instructions step by step on this link [BlackArch strap.sh](https://b
    ```java
    java -jar Phanteon-1.0-SNAPSHOT.jar
    ```
-#### Demo
+#### Demo video
 [![Phanteon](http://img.youtube.com/vi/Nnj5OxXhysU/0.jpg)](http://www.youtube.com/watch?v=Nnj5OxXhysU "Phanteon")
 
 
